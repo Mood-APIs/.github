@@ -1,0 +1,9 @@
+{
+  "name": "Mood AWS Development Deployment Workflow",
+  "description": "Mood Organization CI/CD starter workflow for development deployment in AWS.",
+  "iconName": "octicon rocket",
+  "categories": [
+    "Python",
+    "AWS"
+  ]
+}
